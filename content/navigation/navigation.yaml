@@ -1,0 +1,10 @@
+tree:
+  -
+    title: Home
+    url: /
+  -
+    title: Stories
+    url: /stories
+  -
+    title: Submit
+    url: /submit
